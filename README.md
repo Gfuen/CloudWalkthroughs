@@ -1,1 +1,1 @@
-# CloudWalkthroughs
+# KubernetesGoatWalkthroughs
